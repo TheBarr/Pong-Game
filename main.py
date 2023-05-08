@@ -1,1 +1,3 @@
-print("Bye world")
+print("Sieam")
+
+print("zmiana taka")
